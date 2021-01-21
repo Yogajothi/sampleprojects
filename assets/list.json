@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Account Setting",
+    "number": "9876543210",
+    "email": "abhi@gmail.com"
+  },
+  {
+    "name": "NOTIFICATION SETTINGS",
+    "number": "9876543210",
+    "email": "abc@gmail.com"
+  },
+  {
+    "name": "PRIVACY POLICY",
+    "number": "9876543210",
+    "email": "def@gmail.com"
+  },
+  {
+    "name": "TERMS OF USE",
+    "number": "9876543210",
+    "email": "ghi@gmail.com"
+  },
+  {
+    "name": "VERSION 1.0.2",
+    "number": "9876543210",
+    "email": "jkl@gmail.com"
+  }
+]
